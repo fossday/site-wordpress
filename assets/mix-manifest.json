@@ -1,0 +1,12 @@
+{
+  "/mix.js": "/mix.js",
+  "/public/dist/app_bundle.css": "/public/dist/app_bundle.css",
+  "public/dist/jquery.min.js": "public/dist/jquery.min.js",
+  "public/dist/app_bundle.js": "public/dist/app_bundle.js",
+  "/../theme/aztlan/dist/app_bundle.css": "/../theme/aztlan/dist/app_bundle.css",
+  "../themes/aztlan/dist/jquery.min.js": "../themes/aztlan/dist/jquery.min.js",
+  "../themes/aztlan/dist/app_bundle.js": "../themes/aztlan/dist/app_bundle.js",
+  "../theme/aztlan/dist/jquery.min.js": "../theme/aztlan/dist/jquery.min.js",
+  "../theme/aztlan/dist/app_bundle.js": "../theme/aztlan/dist/app_bundle.js",
+  "/../themes/aztlan/dist/app_bundle.css": "/../themes/aztlan/dist/app_bundle.css"
+}
