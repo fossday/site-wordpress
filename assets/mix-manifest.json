@@ -8,5 +8,8 @@
   "../themes/aztlan/dist/app_bundle.js": "../themes/aztlan/dist/app_bundle.js",
   "../theme/aztlan/dist/jquery.min.js": "../theme/aztlan/dist/jquery.min.js",
   "../theme/aztlan/dist/app_bundle.js": "../theme/aztlan/dist/app_bundle.js",
-  "/../themes/aztlan/dist/app_bundle.css": "/../themes/aztlan/dist/app_bundle.css"
+  "/../themes/aztlan/dist/app_bundle.css": "/../themes/aztlan/dist/app_bundle.css",
+  "/../themes/schultz/dist/app_bundle.css": "/../themes/schultz/dist/app_bundle.css",
+  "../themes/schultz/dist/jquery.min.js": "../themes/schultz/dist/jquery.min.js",
+  "../themes/schultz/dist/app_bundle.js": "../themes/schultz/dist/app_bundle.js"
 }

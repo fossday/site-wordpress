@@ -3,11 +3,11 @@ const { mix } = require('laravel-mix');
 mix.options({ processCssUrls: false})
 .sass(
     'resources/sass/style.scss',
-    '../themes/aztlan/dist/app_bundle.css',
+    '../themes/schultz/dist/app_bundle.css',
     { implementation: require('node-sass')}
 )
-    .copy('resources/fonts','../themes/aztlan/fonts')
-    .scripts('node_modules/jquery/dist/jquery.min.js','../themes/aztlan/dist/jquery.min.js')
+    .copy('resources/fonts','../themes/schultz/fonts')
+    .scripts('node_modules/jquery/dist/jquery.min.js','../themes/schultz/dist/jquery.min.js')
 .scripts(
     [
         'node_modules/popper.js/dist/umd/popper.min.js',
@@ -27,5 +27,5 @@ mix.options({ processCssUrls: false})
         'resources/js/classy-nav.js',
         'resources/js/jquery.scrollup.min.js',
         'resources/js/active.js'
-    ], '../themes/aztlan/dist/app_bundle.js'
+    ], '../themes/schultz/dist/app_bundle.js'
 );

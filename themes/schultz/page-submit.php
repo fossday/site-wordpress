@@ -142,7 +142,6 @@
          ?>
 
         <!-- Map Area -->
-        <?php include "partials/map_area.php"; ?>
 
     <?php  }; ?>
 

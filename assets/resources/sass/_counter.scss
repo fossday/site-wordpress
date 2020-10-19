@@ -4,6 +4,10 @@
     position: relative;
     z-index: 1;
 
+    &.pre-event-header {
+        height: 100vh;
+    }
+
     .countdown-up-area {
         position: relative;
         z-index: 1;

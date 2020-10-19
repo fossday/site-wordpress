@@ -5,14 +5,17 @@
                 <div class="schedule-tab">
                     <!-- Nav Tabs -->
                     <ul class="nav nav-tabs wow fadeInUp" data-wow-delay="300ms" id="conferScheduleTab" role="tablist">
-                        <li class="nav-item">
+                        <!--li class="nav-item">
                             <a class="nav-link active" id="monday-tab" data-toggle="tab" href="#step-one" role="tab"
                                 aria-controls="step-one" aria-expanded="true">Manhã <br> <span>08h30min - 12h00min</span></a>
-                        </li>
+                        </li-->
                         <!-- Nav Item -->
-                        <li class="nav-item">
+                        <!--li class="nav-item">
                             <a class="nav-link" id="tuesday-tab" data-toggle="tab" href="#step-two" role="tab"
                                 aria-controls="step-two" aria-expanded="true">Tarde <br> <span>13h00min - 18h00min</span></a>
+                        </li-->
+                        <li>
+                            <a class="nav-link special-online" id="special-tab" data-toggle="tab" href="#step-one" role="tab" aria-controls="step-two" aria-expanded="true">Evento Online <br> <span>14h00min - 19h00min</span></a>
                         </li>
                     </ul>
                 </div>
